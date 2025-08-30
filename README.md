@@ -13,6 +13,7 @@ The Pipeline will build and run a unit test on a sample go repository, and uploa
 ## Workflow
 - Build the code and run unit tests.test
 - Package the app as a Docker image and upload it to Docker Hub.
+- tets
 
 
 ## Graphical Summary
